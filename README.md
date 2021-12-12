@@ -1,4 +1,4 @@
-# mingodb
+# MingoDB
 
 _created by Austin Poor_
 
