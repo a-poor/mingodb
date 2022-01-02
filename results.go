@@ -1,15 +1,13 @@
 package main
 
-type InsertOneResult struct {
-}
-
-type InsertManyResult struct {
-}
+type InsertID interface{}
 
 type SingleResult struct {
+	data []byte
 }
 
 type MultiResult struct {
+	data []byte
 }
 
 type UpdateResult struct {
